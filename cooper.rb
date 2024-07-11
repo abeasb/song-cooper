@@ -1,5 +1,8 @@
 # COOPER/COOPER/COOPER_1
 
+use_bpm 60
+
+# change path
 cooper = "C:/Users/adria/OneDrive/Escritorio/sonic pi/samples/Twin Peaks The Owls Are Not What They Seem.mp3"
 
 define :play_sample_with_reverb do
